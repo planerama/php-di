@@ -1,5 +1,5 @@
 {
-    "name": "jm/php-di",
+    "name": "planerama/php-di",
     "type": "library",
     "description": "The dependency injection container for humans",
     "keywords": ["di", "dependency injection", "container", "ioc", "psr-11", "psr11", "container-interop"],
